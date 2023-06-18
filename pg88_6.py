@@ -1,0 +1,6 @@
+a = float(input("Marks in sub1"))
+b = float(input("Marks in sub2"))
+c = float(input("Marks in sub3"))
+d = float(input("Marks in sub4"))
+e = float(input("Marks in sub5"))
+print("Avg is",(a+b+c+d+e)/5)

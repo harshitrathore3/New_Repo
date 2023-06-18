@@ -1,0 +1,7 @@
+a = input("Name")
+b = input("Class")
+c = input("Age")
+print(a,b,c)
+print(a)
+print(b)
+print(c)
